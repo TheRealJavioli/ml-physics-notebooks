@@ -6,3 +6,4 @@ scikit_learn==1.1.3
 mlxtend==0.21.0
 scikit-image==0.19.3
 xgboost==1.7.1
+astropy==5.1.1
